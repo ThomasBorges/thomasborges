@@ -21,8 +21,8 @@ Spoken languages:
 </div>
 
 <div style="display: inline" align="center" color="white">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" title=“Java” alt=“Java” width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" title=“Java” alt=“Java” width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title=“Java” alt=“Java” width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" title=“Spring” alt=“Spring” width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" title="postman" alt="postgresql" width="30" height="30"/>
 <p align="center">
